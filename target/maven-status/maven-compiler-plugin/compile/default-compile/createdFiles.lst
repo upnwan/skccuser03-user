@@ -1,0 +1,11 @@
+nnosmok\config\kafka\KafkaProcessor.class
+nnosmok\User.class
+nnosmok\Deleted.class
+nnosmok\AbstractEvent.class
+nnosmok\UserRepository.class
+nnosmok\Registered.class
+nnosmok\UserController.class
+nnosmok\AbstractEvent$1.class
+nnosmok\PolicyHandler.class
+nnosmok\Changed.class
+nnosmok\UserApplication.class
